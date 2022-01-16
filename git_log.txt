@@ -1,0 +1,8 @@
+6ecbc5fddb5d43686d66e5a44b5c4d34ff70fdc0 (HEAD -> main) Merge branch 'wikipedia' merge
+a8fa1cc4afd8145209195073c5120bd834eba820 (tag: v1.1, origin/wikipedia, wikipedia) Wikipedia Day Events
+0cfe6f599a75a8ac3cbb508ae0e978342135bcda Wikipedia Day
+754eeacc69baeb8058624028a3ac3358772f5ac8 Merge branch 'interlingwa' merge
+9faddc36a2093bc875fa1c5a5eb330af04501766 (tag: v1.0) Fundamenty fenomenu interlingwy
+d53aef75ef6f46252b00f2468fd64427bc08fd3f Opis dnia interlingwy
+dacaef9d0fa842ae247ca9376d1ac2db091949c2 Dzień interlingwy
+2efb66759ee69c85bbd81945fef505daf9c91435 (origin/main, origin/HEAD) Initial commit
